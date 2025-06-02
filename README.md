@@ -1,2 +1,1 @@
-# Assets
-My personal asset storage, for my projects
+# This repo is for my Assets
